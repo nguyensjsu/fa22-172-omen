@@ -49,6 +49,3 @@ docker login
 docker build -t $(account)/customer-api -t $(account)/customer-api .
 docker push $(account)/customer-api
 ```
-
-docker build -t zanagen/customer-api -t zanagen/customer-api .
-docker push zanagen/customer-api

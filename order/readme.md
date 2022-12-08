@@ -49,6 +49,3 @@ docker login
 docker build -t $(account)/payment-api -t $(account)/payment-api .
 docker push $(account)/payment-api
 ```
-
-docker build -t zanagen/order-api -t zanagen/order-api .
-docker push zanagen/order-api
