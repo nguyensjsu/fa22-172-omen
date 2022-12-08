@@ -4,7 +4,7 @@
 * Each microservices is written within it's own folder and main running class, executing separately.
 * However, all microservices shares the same MySQL database through the backend API for consistency.
 
-# ==========================================
+# 
 
 ### 1. Cashier App
 
