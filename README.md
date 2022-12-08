@@ -1,6 +1,7 @@
 DEMO: https://youtu.be/3-J-ifIlWvc
 
 ## Design
+* We decided to build an application for a popular milk tea spot in San Jose called Gong-cha.
 * The whole project is separated into four main division: three microservices and one backend RestAPI.
 * The RestAPI is implemented and deployed On GKE beforehand for microservices to make use of.
 * Each microservices is written within it's own folder and main running class, executing separately.
@@ -76,5 +77,21 @@ NOTE: You will have 4 different terminals open
 3. Follow the instructions in the [Customer Deployment readme file](customer/readme.md) to start up customer/.
 
 -->
+## How the project should look like when you run it correctly
+
+1. Sign up 
+![sign up](https://user-images.githubusercontent.com/73457151/206386538-25371c7c-28da-47d3-bb20-95e5000d5a32.PNG)
+
+2. Browse Catalog
+![browse](https://user-images.githubusercontent.com/73457151/206386782-f4796680-6742-4c1a-ad9b-5db095c870e9.PNG)
+
+3. Order/Payment Processing
+![payment](https://user-images.githubusercontent.com/73457151/206387474-70133904-346e-4bb9-a292-8baa9fbd2799.PNG)
+ 
+4. Help Desk
+![passwordchange](https://user-images.githubusercontent.com/73457151/206388572-76432cc5-f954-4259-b6c5-3ffc42d71a32.PNG)
+
+5. Employee login
+![employee](https://user-images.githubusercontent.com/73457151/206388760-b1b0939c-6667-47f8-a5f7-1bd371e65767.PNG)
 
 
