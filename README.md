@@ -77,6 +77,10 @@ NOTE: You will have 4 different terminals open
 3. Follow the instructions in the [Customer Deployment readme file](customer/readme.md) to start up customer/.
 
 -->
+## Journal
+
+Although we don't have much journals, since our team was hectic (we had one of our teammates drop the class), we were able to get basic functionalities/bare minimum but we did struggle a lot with the back-end. Our team did it too last minute, so yes we shouldve started sooner.
+
 ## How the project should look like when you run it correctly
 
 1. Sign up 
